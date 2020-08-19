@@ -24,43 +24,43 @@ I mostly work with Python Infra and Cloud-Native technologies.☁️🚀
 # Programming Language and Frameworks
 <p float="left">
     <a href="https://www.python.org/" target="_blank" >
-        <img src="./assets/python.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/python.gif"  height="90" />
     </a>
     <a href="https://www.ansible.com/" target="_blank" >
-        <img src="./assets/ansible.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/ansible.gif"  height="90" />
     </a>
     <a href="https://www.javascript.com/" target="_blank" >
-        <img src="./assets/javascript.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/javascript.gif"  height="90" />
     </a>
  </p>
 
 # Cloud Services and Tools
 <p float="left">
     <a href="https://aws.amazon.com/" target="_blank" >
-        <img src="./assets/aws.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/aws.gif"  height="90" />
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" >
-        <img src="./assets/azure.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/azure.gif"  height="90" />
     </a>
     <a href="https://www.openstack.org/" target="_blank" >
-        <img src="./assets/openstack.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/openstack.gif"  height="90" />
     </a>
     <a href="https://kubernetes.io/" target="_blank" >
-        <img src="./assets/k8s.gif"  height="120" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/k8s.gif"  height="120" />
     </a>
     <a href="https://helm.sh/" target="_blank" >
-        <img src="./assets/helm.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/helm.gif"  height="90" />
     </a>
     <a href="https://www.docker.com/" target="_blank" >
-        <img src="./assets/docker.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/docker.gif"  height="90" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" >
-        <img src="./assets/vscode.gif"  height="90" />
+        <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/vscode.gif"  height="90" />
     </a>
  </p>
 
 <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" >
-    <img src="./assets/devops.gif" />
+    <img src="https://raw.githubusercontent.com/jabhishek87/jabhishek87/master/assets/devops.gif" />
 </a>
 
 ### 📫 How to reach me?
